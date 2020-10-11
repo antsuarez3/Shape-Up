@@ -1,0 +1,24 @@
+#shape-container {
+      height: 600px;
+      width: 600px;
+      background-color: blue;
+      position: relative;
+  }
+  
+  .square {
+    /* width: 100px;
+    height: 100px; */
+    position: absolute;
+    background-color: red;
+  }
+
+  .rectangle {
+    /* width: 100px;
+    height: 50px; */
+      position: absolute;
+      background-color: green;
+  }
+
+
+  
+    
